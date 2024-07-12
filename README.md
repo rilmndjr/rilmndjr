@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rilmndjr&label=Profile%20views&color=0e75b6&style=flat" alt="rilmndjr" /> </p>
 
-- 📫 How to reach me @ **ar.mondejar00@gmail.com**
+- 📫 Email: **ar.mondejar00@gmail.com**
 
 - ⚡ Fun fact: **MARVEL Fan | Bibliophile**
 
