@@ -3,8 +3,6 @@
 <h3 align="center">Coding for fun (while pretending I know what I'm doing)</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk3bmNibXU2MGdmMW1jeXNlZTQyNjV5YzB0NGYxdGc1dzkxcWdnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rilmndjr&label=Profile%20views&color=0e75b6&style=flat" alt="rilmndjr" /> </p>
-
 - 📫 Email: **ar.mondejar00@gmail.com**
 
 - ⚡ Fun fact: **MARVEL Fan | Bibliophile**
